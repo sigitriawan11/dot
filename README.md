@@ -8,4 +8,11 @@ Untuk semua entitas memiliki CRUD nya masing" dan ada sistem pencarian data.
 
 <img src="https://raw.githubusercontent.com/sigitriawan11/dot/main/Screenshot%202022-09-25%20010629.png">
 
+# database
+Database pada aplikasi kelola data siswa sederhana
+
+# Dokumentasi
+
+Dokumentasi lengkap ada <a href="https://documenter.getpostman.com/view/23529046/2s83KTAjcP">Disini</a>
+
 
