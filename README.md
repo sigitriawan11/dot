@@ -12,6 +12,9 @@ Untuk semua entitas memiliki CRUD nya masing" dan ada sistem pencarian data.
 
 # Desain Database
 Database pada aplikasi kelola data siswa sederhana
+Untuk melihat Desain Database ada <a href="https://drawsql.app/teams/sigit-riawan/diagrams/dot">Disini</a>
+
+<img src="https://raw.githubusercontent.com/sigitriawan11/dot/main/Screenshot%202022-09-25%20120651.png">
 
 # Dokumentasi
 
